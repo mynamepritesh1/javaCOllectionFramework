@@ -1,1 +1,1 @@
-# javaCOllectionFramework
+# javaCollectionFramework
